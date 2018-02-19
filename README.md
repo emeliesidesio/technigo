@@ -1,2 +1,2 @@
 # technigo
-Technigo booth camp
+This is my solution of the Technigo booth camp challenge
